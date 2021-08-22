@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday Card</string>
+    <string name="happy_birthday_text">Happy Birthday, Miku!</string>
+    <string name="signature_text">From Guigo.</string>
+    <string name="background_image">background image</string>
+    <string name="my_love">my love</string>
+</resources>
